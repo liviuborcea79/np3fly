@@ -1,5 +1,5 @@
 {
   isEnabled: true,
-  isDead: true,
+  isDead: false,
   redirectURL: "https://github.com/"
 }
